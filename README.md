@@ -11,6 +11,7 @@ YT : https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ <br>
 Web : http://www.grafikart.fr/
 
 ==================
-<h1>DEMO</h1>
+<h1>Demo</h1>
 <br>
-http://albapasta.com/ressources/CSS-Animated-LoadersV1/
+
+Check the demo <a href="http://albapasta.com/ressources/CSS-Animated-LoadersV1/" target="_blank" title="CSS loader animation demo">here</a>
