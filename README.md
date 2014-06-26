@@ -1,4 +1,4 @@
-CSS animated loaders
+Full CSS3 animated loaders
 ==================
 
 10 full CSS loader animation
@@ -17,3 +17,5 @@ Web : http://www.grafikart.fr/
 Check the demo <a href="http://albapasta.com/ressources/CSS-Animated-LoadersV1/" target="_blank" title="CSS loader animation demo">here</a>
 
 ==================
+
+<p>NOTE: you may have browsers compatibility issues</p>
