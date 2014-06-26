@@ -1,4 +1,4 @@
-css-load-animation
+CSS animated loaders
 ==================
 
 10 full CSS loader animation
