@@ -5,7 +5,7 @@ css-load-animation
 
 ==================
 
-Inspired by Grafikart tutorial - 
-Github: https://github.com/Grafikart
-YT : https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ
+Inspired by Grafikart tutorial <br>
+Github: https://github.com/Grafikart <br>
+YT : https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ <br>
 Web : http://www.grafikart.fr/
