@@ -16,6 +16,11 @@ Web : http://www.grafikart.fr/
 
 Check the demo <a href="http://albapasta.com/ressources/CSS-Animated-LoadersV1/" target="_blank" title="CSS loader animation demo">here</a>
 
+<h2>License</h2>
+Licensed under MIT.
+
 ==================
 
 <p>NOTE: you may have browsers compatibility issues</p>
+
+==================
