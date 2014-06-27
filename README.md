@@ -1,7 +1,7 @@
 Full CSS3 animated loaders
 ==================
 
-<p>10 full CSS loaders</p>
+<p>10 simple CSS loaders</p>
 ==================
 
 Inspired by Grafikart tutorial <br> <br>
